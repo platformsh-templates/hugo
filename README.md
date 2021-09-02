@@ -29,6 +29,9 @@ The following changes have been made relative from initializing a new Hugo proje
 * The `.platform.app.yaml`, `.platform/services.yaml`, and `.platform/routes.yaml` files have been added.  These provide Platform.sh-specific configuration and are present in all projects on Platform.sh.  You may customize them as you see fit.
 * The `minimal` theme has been included by default.  Feel free to remove it and replace with your own if you prefer.  Consult the Hugo documentation for instructions on how to add and enable themes.
 
+## Extra tests
+Are extra tests useful?
+
 ## References
 
 * [Hugo](https://gohugo.io/)
