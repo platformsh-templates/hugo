@@ -33,3 +33,5 @@ The following changes have been made relative from initializing a new Hugo proje
 
 * [Hugo](https://gohugo.io/)
 * [Go on Platform.sh](https://docs.platform.sh/languages/go.html)
+
+Nothing
