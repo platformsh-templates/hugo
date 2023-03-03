@@ -12,7 +12,8 @@ Hugo is a static site generator written in Go, using Go's native template packag
 
 ## Features
 
-* Go 1.15
+* Go 1.20
+* Hugo 0.111.1
 * Automatic TLS certificates
 * Hugo downloaded on the fly during build
 
@@ -20,7 +21,8 @@ Hugo is a static site generator written in Go, using Go's native template packag
 
 The `content` directory includes two pieces of sample content, provided so that the initial install has some content to show.  Replace it with your actual content as desired.
 
-You can also remove the `minimal` theme if you so desire and replace it with one you download or one you create yourself.
+You can also remove the `mini` theme if you so desire and replace it with one you download or one you create yourself.
+The `mini` theme is a git submodule: you can also update it as needed based on the upstream evolution of this them.
 
 ## Customizations
 
